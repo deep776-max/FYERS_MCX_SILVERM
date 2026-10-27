@@ -1,0 +1,2 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+MCX_SILVERM_20261027_190234,SILVERM,SILVERM,1000,False,True,184000,322000,5S|1|5|60|D
